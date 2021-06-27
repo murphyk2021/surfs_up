@@ -44,6 +44,7 @@ During the month of **December:**
 ![june and december rain data](https://github.com/murphyk2021/surfs_up/blob/c645df3138c60d6c541251f96b9049676622a14d/Images/precip_hist.PNG)
 
 - - -
+## Moving Forward
 To further influence W. Avy we may add in our report that the Department of business, economic developmet, and tourism reports that June and December mark the beginning of the two highest grossing tourism seasons of the year in Oahu!   [source](https://www.hawaii-guide.com/files/images/charts/oahu-visitor-arrivals.png). 
 
 Before moving forward with our surf shop plan, it may behoove us to take a peak at the predictive climate data for the area based on the current climate change information as well as the affect of la nina and el nino on the hurricane season in Oahu.  We may even be able to see a cyclical pattern in the data we have now as a result of those changes in the wind and sea sruface temperatures!
